@@ -8,7 +8,7 @@ import java.util.Date;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class TaskModel {
+public class Task{
     private Long id;
     private String description;
     private String status;
